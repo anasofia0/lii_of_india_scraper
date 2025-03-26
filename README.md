@@ -1,5 +1,5 @@
-# LII of India Scrapper
-Web scrapper for Legal Information Institute of India (LIIofIndia) platform
+# LII of India Scraper
+Web scraper for Legal Information Institute of India (LIIofIndia) platform
 
 ## Setup
 
